@@ -1,5 +1,9 @@
 # docker-registry-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/docker-registry-private?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Docker Registry template](https://railway.com/deploy/docker-registry-private?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 The CNCF [distribution](https://github.com/distribution/distribution) registry
 (`registry:3.0.0`, pinned by digest) packaged for Railway, with the one thing
 the stock image cannot do for itself: **basic authentication**.
